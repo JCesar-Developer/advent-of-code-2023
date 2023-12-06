@@ -18,7 +18,7 @@ El mayor reto Anglo-parlante de lógica de programación celebrado entre el 01 y
 
 ### Arquitectura del proyecto
 
-Todos los desafíos cuentan con la siguiente estructura:
+Todos los desafíos cuentan con la siguiente arquitectura:
 1. `README.md`, Documento donde se detallan ambas partes del desafío.
 2. `input.ts` Documento donde se encuentra el input para las funcionalidades del desafío.
 3. `solution-1.ts` Documento donde se encuentran las funciones que solucionan la primera parte del desafío.
